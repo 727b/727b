@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Breach</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=727b&label=Profile%20views&color=0e75b6&style=flat" alt="727b" /> </p>
 
--  I’m currently working on **Nothing ^-^**
+-  idc about this dirty world 😪**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
