@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Turki</h1>
+<h1 align="center">Hi 👋, I'm Breach</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=727b&label=Profile%20views&color=0e75b6&style=flat" alt="727b" /> </p>
 
 - 🔭 I’m currently working on **Nothing**
-
-- 👨‍💻 All of my projects are available at [https://discord.gg/51](https://discord.gg/51)
-
 - 📫 How to reach me **Discord : y16t**
 
 <h3 align="left">Connect with me:</h3>
