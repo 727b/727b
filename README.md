@@ -1,11 +1,9 @@
 # Hi there,👋 I'm Breach -  [discord server](https://discord.gg/5gzSW2FbyH) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://tenor.com/view/cute-kawaii-iraq-syria-damascus-gif-14192097473707051875" />
 
 
 - 👨‍💻 I’m currently working on I currently work on anything related to cybersecurity, software engineering, and penetration testing ^-^.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play games .
  
 ```yaml                                                                      
 
