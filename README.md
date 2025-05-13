@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/51](https://discord.gg/51)
 
-- 📫 How to reach me **Discord : 44h1**
+- 📫 How to reach me **Discord : y16t**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
